@@ -1,6 +1,6 @@
-# 🧪 Spring Boot Lab: Working with Spring Beans and REST Controllers
+# Spring Boot Lab: Working with Spring Beans and REST Controllers
 
-## 🎯 Objectives
+## Objectives
 
 By the end of this lab, you will be able to:
 
